@@ -4,7 +4,7 @@ iOS Journal app with custom backend using Node.js and MongoDB
 
 <img width="250px" src="https://letsbuildthatapp-videos.s3-us-west-2.amazonaws.com/a972d2c1-0ebd-4b11-be2f-216904421c86" />
 
-Bringing you closer to the people and things you love. – Instagram from Facebook
+Bringing you closer to the people and things you love.
 
 
 Connect with friends, share what you're up to or see what's new from others all over the world. Explore our community where you can feel free to be yourself 
