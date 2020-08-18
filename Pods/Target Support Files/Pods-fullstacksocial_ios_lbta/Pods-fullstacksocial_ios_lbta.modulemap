@@ -1,0 +1,6 @@
+framework module Pods_fullstacksocial_ios_lbta {
+  umbrella header "Pods-fullstacksocial_ios_lbta-umbrella.h"
+
+  export *
+  module * { export * }
+}
